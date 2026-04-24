@@ -1,0 +1,17 @@
+com\app\foodexpiry\dto\RegisterRequest.class
+com\app\foodexpiry\filter\AuthenticationFilter.class
+com\app\foodexpiry\model\FoodItem.class
+com\app\foodexpiry\controller\FoodController.class
+com\app\foodexpiry\util\ValidationUtil.class
+com\app\foodexpiry\model\User.class
+com\app\foodexpiry\dto\LoginRequest.class
+com\app\foodexpiry\service\AuthService.class
+com\app\foodexpiry\util\DateUtil.class
+com\app\foodexpiry\repository\FoodItemRepository.class
+com\app\foodexpiry\repository\FoodItemRepository$DashboardStats.class
+com\app\foodexpiry\config\DatabaseConfig.class
+com\app\foodexpiry\repository\UserRepository.class
+com\app\foodexpiry\controller\DashboardController.class
+com\app\foodexpiry\service\FoodService.class
+com\app\foodexpiry\dto\FoodItemDTO.class
+com\app\foodexpiry\controller\AuthController.class

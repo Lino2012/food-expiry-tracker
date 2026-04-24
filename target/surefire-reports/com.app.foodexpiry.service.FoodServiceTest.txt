@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.app.foodexpiry.service.FoodServiceTest
+-------------------------------------------------------------------------------
+Tests run: 19, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.108 s -- in com.app.foodexpiry.service.FoodServiceTest

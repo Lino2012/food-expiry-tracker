@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Context>
+    <!-- Disable session persistence across restarts -->
+    <Manager pathname="" />
+    
+    <!-- Resource configuration for better performance -->
+    <Resources cachingAllowed="true" cacheMaxSize="100000" />
+</Context>

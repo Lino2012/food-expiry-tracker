@@ -1,0 +1,16 @@
+C:\food-expiry-tracker\src\main\java\com\app\foodexpiry\dto\FoodItemDTO.java
+C:\food-expiry-tracker\src\main\java\com\app\foodexpiry\dto\LoginRequest.java
+C:\food-expiry-tracker\src\main\java\com\app\foodexpiry\dto\RegisterRequest.java
+C:\food-expiry-tracker\src\main\java\com\app\foodexpiry\model\User.java
+C:\food-expiry-tracker\src\main\java\com\app\foodexpiry\service\AuthService.java
+C:\food-expiry-tracker\src\main\java\com\app\foodexpiry\util\DateUtil.java
+C:\food-expiry-tracker\src\main\java\com\app\foodexpiry\filter\AuthenticationFilter.java
+C:\food-expiry-tracker\src\main\java\com\app\foodexpiry\util\ValidationUtil.java
+C:\food-expiry-tracker\src\main\java\com\app\foodexpiry\controller\AuthController.java
+C:\food-expiry-tracker\src\main\java\com\app\foodexpiry\repository\UserRepository.java
+C:\food-expiry-tracker\src\main\java\com\app\foodexpiry\controller\FoodController.java
+C:\food-expiry-tracker\src\main\java\com\app\foodexpiry\controller\DashboardController.java
+C:\food-expiry-tracker\src\main\java\com\app\foodexpiry\model\FoodItem.java
+C:\food-expiry-tracker\src\main\java\com\app\foodexpiry\config\DatabaseConfig.java
+C:\food-expiry-tracker\src\main\java\com\app\foodexpiry\repository\FoodItemRepository.java
+C:\food-expiry-tracker\src\main\java\com\app\foodexpiry\service\FoodService.java
