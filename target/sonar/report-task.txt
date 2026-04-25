@@ -1,0 +1,6 @@
+projectKey=food-expiry-tracker
+serverUrl=http://localhost:9000
+serverVersion=26.4.0.121862
+dashboardUrl=http://localhost:9000/dashboard?id=food-expiry-tracker
+ceTaskId=cc160340-f0c8-4e2b-ace8-a2313e08e37b
+ceTaskUrl=http://localhost:9000/api/ce/task?id=cc160340-f0c8-4e2b-ace8-a2313e08e37b

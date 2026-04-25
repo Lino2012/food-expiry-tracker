@@ -5,7 +5,7 @@
     <div class="navbar-container">
         <a href="${pageContext.request.contextPath}/" class="navbar-brand">
             <span class="brand-icon">🍎</span>
-            <span class="brand-text">FoodExpiry</span>
+            <span class="brand-text">Foodine</span>
         </a>
         
         <div class="navbar-menu">

@@ -11,7 +11,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="Food Expiry Tracker - The ultimate SaaS platform to manage your kitchen inventory and reduce food waste.">
-    <title>FoodExpiry | Smart Food Management</title>
+    <title>Foodine | Smart Food Management</title>
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="${pageContext.request.contextPath}/assets/css/style.css">
 </head>
@@ -84,7 +84,7 @@
     <section id="features" class="features-section">
         <div class="container">
             <div class="section-header">
-                <h2>Why Choose FoodExpiry?</h2>
+                <h2>Why Choose Foodine?</h2>
                 <p>Built for busy people who care about their wallet and the planet.</p>
             </div>
             <div class="features-grid">
